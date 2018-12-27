@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 My name Mukti Patel.
+=======
+<<<<<<< HEAD
+Hiii there.....
+=======
+Divya
+>>>>>>> 75487c4182cf7c6fb360381c25d437c86c30f62b
+>>>>>>> 3440889745463bd9db87029a6762baafe6b4f53e
